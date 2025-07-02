@@ -1,7 +1,8 @@
 // src/routes/api.js
 // ... (código existente)
 const tareasController = require('../controllers/tareasController');
-
+const express = require('express');
+const router = express.Router();
 // ... (otras rutas)
 
 // Rutas para el Ejercicio 5: API REST para Tareas [cite: 217]

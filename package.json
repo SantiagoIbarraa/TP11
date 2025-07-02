@@ -10,16 +10,24 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-"dependencies": {
-  "bcryptjs": "^2.4.3", 
-  "body-parser": "^2.2.0",
-  "cors": "^2.8.5",
-  "express": "^5.1.0",
-  "jsonwebtoken": "^9.0.2", 
-  "mysql2": "^3.14.1"
-},
+  "description": "\"# TP11\"",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1"
+  },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoIbarraa/TP11.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SantiagoIbarraa/TP11/issues"
+  },
+  "homepage": "https://github.com/SantiagoIbarraa/TP11#readme"
 }

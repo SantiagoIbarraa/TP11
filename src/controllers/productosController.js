@@ -1,6 +1,5 @@
 // src/controllers/productosController.js
-const db = require('../../db');
-
+const db = require('../db');
 // Crear nuevo producto [cite: 232]
 exports.crearProducto = (req, res) => {
   const { nombre, precio, stock } = req.body;
